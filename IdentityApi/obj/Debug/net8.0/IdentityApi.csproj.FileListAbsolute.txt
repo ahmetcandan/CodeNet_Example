@@ -94,3 +94,4 @@ C:\Users\canda\source\repos\DataTransfer\CodeNet_Example\IdentityApi\obj\Debug\n
 C:\Users\canda\source\repos\DataTransfer\CodeNet_Example\IdentityApi\obj\Debug\net8.0\IdentityApi.pdb
 C:\Users\canda\source\repos\DataTransfer\CodeNet_Example\IdentityApi\obj\Debug\net8.0\IdentityApi.genruntimeconfig.cache
 C:\Users\canda\source\repos\DataTransfer\CodeNet_Example\IdentityApi\obj\Debug\net8.0\ref\IdentityApi.dll
+C:\Users\canda\source\repos\DataTransfer\CodeNet_Example\IdentityApi\obj\Debug\net8.0\IdentityApi.sourcelink.json
