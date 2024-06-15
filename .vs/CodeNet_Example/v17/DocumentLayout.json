@@ -1,32 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\canda\\source\\repos\\DataTransfer\\CodeNet_Example\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{463F46A7-BB84-4DC9-8624-C27107E73A35}|ExampleApi\\ExampleApi.csproj|c:\\users\\canda\\source\\repos\\datatransfer\\codenet_example\\exampleapi\\handler\\mongodbgetvaluerequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{463F46A7-BB84-4DC9-8624-C27107E73A35}|ExampleApi\\ExampleApi.csproj|solutionrelative:exampleapi\\handler\\mongodbgetvaluerequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{463F46A7-BB84-4DC9-8624-C27107E73A35}|ExampleApi\\ExampleApi.csproj|c:\\users\\canda\\source\\repos\\datatransfer\\codenet_example\\exampleapi\\models\\mongomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{463F46A7-BB84-4DC9-8624-C27107E73A35}|ExampleApi\\ExampleApi.csproj|solutionrelative:exampleapi\\models\\mongomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{463F46A7-BB84-4DC9-8624-C27107E73A35}|ExampleApi\\ExampleApi.csproj|c:\\users\\canda\\source\\repos\\datatransfer\\codenet_example\\exampleapi\\contract\\mongodbgetvaluerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{463F46A7-BB84-4DC9-8624-C27107E73A35}|ExampleApi\\ExampleApi.csproj|solutionrelative:exampleapi\\contract\\mongodbgetvaluerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{463F46A7-BB84-4DC9-8624-C27107E73A35}|ExampleApi\\ExampleApi.csproj|c:\\users\\canda\\source\\repos\\datatransfer\\codenet_example\\exampleapi\\controllers\\mongodbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{463F46A7-BB84-4DC9-8624-C27107E73A35}|ExampleApi\\ExampleApi.csproj|solutionrelative:exampleapi\\controllers\\mongodbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{463F46A7-BB84-4DC9-8624-C27107E73A35}|ExampleApi\\ExampleApi.csproj|c:\\users\\canda\\source\\repos\\datatransfer\\codenet_example\\exampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{463F46A7-BB84-4DC9-8624-C27107E73A35}|ExampleApi\\ExampleApi.csproj|solutionrelative:exampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{463F46A7-BB84-4DC9-8624-C27107E73A35}|ExampleApi\\ExampleApi.csproj|c:\\users\\canda\\source\\repos\\datatransfer\\codenet_example\\exampleapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{463F46A7-BB84-4DC9-8624-C27107E73A35}|ExampleApi\\ExampleApi.csproj|solutionrelative:exampleapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -34,33 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MongoModel.cs",
-              "DocumentMoniker": "C:\\Users\\canda\\source\\repos\\DataTransfer\\CodeNet_Example\\ExampleApi\\Models\\MongoModel.cs",
-              "RelativeDocumentMoniker": "ExampleApi\\Models\\MongoModel.cs",
-              "ToolTip": "C:\\Users\\canda\\source\\repos\\DataTransfer\\CodeNet_Example\\ExampleApi\\Models\\MongoModel.cs",
-              "RelativeToolTip": "ExampleApi\\Models\\MongoModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T14:53:28.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MongoDBGetValueRequest.cs",
-              "DocumentMoniker": "C:\\Users\\canda\\source\\repos\\DataTransfer\\CodeNet_Example\\ExampleApi\\Contract\\MongoDBGetValueRequest.cs",
-              "RelativeDocumentMoniker": "ExampleApi\\Contract\\MongoDBGetValueRequest.cs",
-              "ToolTip": "C:\\Users\\canda\\source\\repos\\DataTransfer\\CodeNet_Example\\ExampleApi\\Contract\\MongoDBGetValueRequest.cs",
-              "RelativeToolTip": "ExampleApi\\Contract\\MongoDBGetValueRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T14:51:16.737Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -75,56 +28,8 @@
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\canda\\source\\repos\\DataTransfer\\CodeNet_Example\\ExampleApi\\appsettings.json",
-              "RelativeDocumentMoniker": "ExampleApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\canda\\source\\repos\\DataTransfer\\CodeNet_Example\\ExampleApi\\appsettings.json",
-              "RelativeToolTip": "ExampleApi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-14T14:42:03.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MongoDBGetValueRequestHandler.cs",
-              "DocumentMoniker": "C:\\Users\\canda\\source\\repos\\DataTransfer\\CodeNet_Example\\ExampleApi\\Handler\\MongoDBGetValueRequestHandler.cs",
-              "RelativeDocumentMoniker": "ExampleApi\\Handler\\MongoDBGetValueRequestHandler.cs",
-              "ToolTip": "C:\\Users\\canda\\source\\repos\\DataTransfer\\CodeNet_Example\\ExampleApi\\Handler\\MongoDBGetValueRequestHandler.cs",
-              "RelativeToolTip": "ExampleApi\\Handler\\MongoDBGetValueRequestHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T14:37:16.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\canda\\source\\repos\\DataTransfer\\CodeNet_Example\\ExampleApi\\Program.cs",
-              "RelativeDocumentMoniker": "ExampleApi\\Program.cs",
-              "ToolTip": "C:\\Users\\canda\\source\\repos\\DataTransfer\\CodeNet_Example\\ExampleApi\\Program.cs",
-              "RelativeToolTip": "ExampleApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T14:36:14.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MongoDBController.cs",
-              "DocumentMoniker": "C:\\Users\\canda\\source\\repos\\DataTransfer\\CodeNet_Example\\ExampleApi\\Controllers\\MongoDBController.cs",
-              "RelativeDocumentMoniker": "ExampleApi\\Controllers\\MongoDBController.cs",
-              "ToolTip": "C:\\Users\\canda\\source\\repos\\DataTransfer\\CodeNet_Example\\ExampleApi\\Controllers\\MongoDBController.cs",
-              "RelativeToolTip": "ExampleApi\\Controllers\\MongoDBController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T14:35:03.024Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
