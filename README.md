@@ -127,6 +127,162 @@ app.Run();
 ```
 
 
+## CodeNet.EntityFramework.InMemory
+
+CodeNet.EntityFramework.InMemory is a .Net library.
+
+### Installation
+
+Use the package manager [npm](https://www.nuget.org/packages/CodeNet.EntityFramework.InMemory/) to install CodeNet.EntityFramework.
+
+```bash
+dotnet add package CodeNet.EntityFramework.InMemory
+```
+
+#### program.cs
+```csharp
+var builder = WebApplication.CreateBuilder(args);
+builder.AddInMemoryDB("DatabaseName");
+//...
+
+var app = builder.Build();
+//...
+app.Run();
+```
+
+
+## CodeNet.EntityFramework.MySQL
+
+CodeNet.EntityFramework.MySQL is a .Net library.
+
+### Installation
+
+Use the package manager [npm](https://www.nuget.org/packages/CodeNet.EntityFramework.MySQL/) to install CodeNet.EntityFramework.MySQL.
+
+```bash
+dotnet add package CodeNet.EntityFramework.MySQL
+```
+
+### Usage
+#### appSettings.json
+```json
+{
+  "ConnectionStrings": {
+    "MySQL": "Server=myServerAddress;Database=myDataBase;Uid=myUsername;Pwd=myPassword;"
+  }
+}
+```
+#### program.cs
+```csharp
+var builder = WebApplication.CreateBuilder(args);
+builder.AddMySQL("MySQL");
+//...
+
+var app = builder.Build();
+//...
+app.Run();
+```
+
+
+## CodeNet.EntityFramework.Oracle
+
+CodeNet.EntityFramework.Oracle is a .Net library.
+
+### Installation
+
+Use the package manager [npm](https://www.nuget.org/packages/CodeNet.EntityFramework.Oracle/) to install CodeNet.EntityFramework.Oracle.
+
+```bash
+dotnet add package CodeNet.EntityFramework.Oracle
+```
+
+### Usage
+#### appSettings.json
+```json
+{
+  "ConnectionStrings": {
+    "Oracle": "Data Source=MyOracleDB;Integrated Security=yes;"
+  }
+}
+```
+#### program.cs
+```csharp
+var builder = WebApplication.CreateBuilder(args);
+builder.AddOracle("Oracle");
+//...
+
+var app = builder.Build();
+//...
+app.Run();
+```
+
+
+## CodeNet.EntityFramework.PostgreSQL
+
+CodeNet.EntityFramework.PostgreSQL is a .Net library.
+
+### Installation
+
+Use the package manager [npm](https://www.nuget.org/packages/CodeNet.EntityFramework.PostgreSQL/) to install CodeNet.EntityFramework.PostgreSQL.
+
+```bash
+dotnet add package CodeNet.EntityFramework.PostgreSQL
+```
+
+### Usage
+#### appSettings.json
+```json
+{
+  "ConnectionStrings": {
+    "PostgreSQL": "User ID=root;Password=myPassword;Host=localhost;Port=5432;Database=myDataBase;Pooling=true;Min Pool Size=0;Max Pool Size=100;Connection Lifetime=0;"
+  }
+}
+```
+#### program.cs
+```csharp
+var builder = WebApplication.CreateBuilder(args);
+builder.AddNpgsql("PostgreSQL");
+//...
+
+var app = builder.Build();
+//...
+app.Run();
+```
+
+
+## CodeNet.EntityFramework.Sqlite
+
+CodeNet.EntityFramework.Sqlite is a .Net library.
+
+### Installation
+
+Use the package manager [npm](https://www.nuget.org/packages/CodeNet.EntityFramework.Sqlite/) to install CodeNet.EntityFramework.Sqlite.
+
+```bash
+dotnet add package CodeNet.EntityFramework.Sqlite
+```
+
+### Usage
+#### appSettings.json
+```json
+{
+  "ConnectionStrings": {
+    "Sqlite": "Data Source=c:\mydb.db;Version=3;"
+  }
+}
+```
+#### program.cs
+```csharp
+var builder = WebApplication.CreateBuilder(args);
+builder.AddSqlite("Sqlite");
+//...
+
+var app = builder.Build();
+//...
+app.Run();
+```
+
+
 ## CodeNet.ExceptionHandling
 
 CodeNet.ExceptionHandling is a .Net library.
