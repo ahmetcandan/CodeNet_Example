@@ -759,3 +759,7 @@ public class TestRequestHandler() : IRequestHandler<TestRequest, ResponseBase<Te
     }
 }
 ```
+
+> [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmetcandan)
+
+> mailto:candanahm@gmail.com
